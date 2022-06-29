@@ -62,6 +62,7 @@ a{
 .card{
   margin: 5% 5%;
   padding: 5%;
+  height:calc(100vh);
 }
 
 }
